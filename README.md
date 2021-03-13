@@ -1,6 +1,6 @@
-<h1 align="center">
+<--<h1 align="center">
   <img alt="dev.finances" title="dev.finances" src="assets/logo.svg" width="220px" />
-</h1>
+</h1> -->
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
