@@ -21,7 +21,7 @@
   <img alt="dev.finances" src="assets/devfinances.png" width="100%">
 </p>
 
-Você pode visualizar o layout do projeto através [desse link](https://edy-ux.github.io/app-finance/) GitHub-pages
+Você pode visualizar o projeto através [desse link](https://edy-ux.github.io/app-finance/) GitHub-pages
 
 ## 🚀 Tecnologias
 
