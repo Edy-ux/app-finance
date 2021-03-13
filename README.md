@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src="assets/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="assets/logo2.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -42,5 +42,3 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
